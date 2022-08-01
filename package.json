@@ -1,0 +1,23 @@
+{
+  "name": "metodologias",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Valentina-Vallejos-Podio/metodologias-de-desarrollo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Valentina-Vallejos-Podio/metodologias-de-desarrollo/issues"
+  },
+  "homepage": "https://github.com/Valentina-Vallejos-Podio/metodologias-de-desarrollo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
